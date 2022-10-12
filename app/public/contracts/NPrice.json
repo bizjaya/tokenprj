@@ -1,0 +1,125 @@
+{
+  "contractName": "NPrice",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.10+commit.fc410830\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/NPrice.sol\":\"NPrice\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/NPrice.sol\":{\"keccak256\":\"0xd2f931eec9d4d64fc99d7070562e7771242878f8e8fb39a2405b525fbad25b6b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://2c2bc122dade1423dadf9e3cc4f5b8f0ca4be4d98ce2f3de4ab2d3afea0194b1\",\"dweb:/ipfs/QmRAFm9nPwBreQbYDzCz1XeXJNg3Uw1tQzEoSXm7J3RivW\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122013f785c64d505a3df6a8445d25b1ddb68e1ac332256a497464d1820e2e9d7eba64736f6c634300080a0033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122013f785c64d505a3df6a8445d25b1ddb68e1ac332256a497464d1820e2e9d7eba64736f6c634300080a0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "68:30:14:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "68:30:14:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.8.5 <0.9.0;\r\n\r\ncontract NPrice {\r\n\r\n\r\n    \r\n}",
+  "sourcePath": "C:\\Users\\user\\Desktop\\token\\contracts\\NPrice.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/NPrice.sol",
+    "exportedSymbols": {
+      "NPrice": [
+        1961
+      ]
+    },
+    "id": 1962,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1960,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.8",
+          ".5",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:31:14"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "NPrice",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 1961,
+        "linearizedBaseContracts": [
+          1961
+        ],
+        "name": "NPrice",
+        "nameLocation": "77:6:14",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 1962,
+        "src": "68:30:14",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:65:14"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/NPrice.sol",
+    "exportedSymbols": {
+      "NPrice": [
+        1961
+      ]
+    },
+    "id": 1962,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1960,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.8",
+          ".5",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:31:14"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "NPrice",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 1961,
+        "linearizedBaseContracts": [
+          1961
+        ],
+        "name": "NPrice",
+        "nameLocation": "77:6:14",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 1962,
+        "src": "68:30:14",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:65:14"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.10+commit.fc410830.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2022-03-01T03:18:03.659Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
